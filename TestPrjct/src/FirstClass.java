@@ -1,4 +1,6 @@
 
 public class FirstClass {
-	public FirstClass () {}
+	public FirstClass () {
+		System.out.println("test1");
+	}
 }
